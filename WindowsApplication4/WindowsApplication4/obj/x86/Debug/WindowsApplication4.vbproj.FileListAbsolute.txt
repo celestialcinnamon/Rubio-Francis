@@ -1,0 +1,19 @@
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form1.resources
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+c:\users\student\documents\visual studio 2010\Projects\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+F:\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.exe
+F:\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.xml
+F:\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.pdb
+F:\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbprojResolveAssemblyReference.cache
+F:\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Form1.resources
+F:\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.Resources.resources
+F:\WindowsApplication4\WindowsApplication4\obj\x86\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+F:\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+F:\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+F:\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
